@@ -1,1 +1,1 @@
-# api-platform-crash-course
+# API interface in PHP
