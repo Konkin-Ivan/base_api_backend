@@ -25,7 +25,8 @@ class Manufacturer
      */
     #[ORM\Column(type: "integer")]
     #[ORM\GeneratedValue]
-    #[ORM\Id] private ?int $id = null;
+    #[ORM\Id]
+    private ?int $id = null;
 
     /**
      * The name of the manufacturer
