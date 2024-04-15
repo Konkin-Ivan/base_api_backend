@@ -1,0 +1,9 @@
+.idea/
+.env
+web/vendor
+web/composer.lock
+api_data/vendor
+api_data/composer.lock
+database
+tags
+.phpunit.result.cache
